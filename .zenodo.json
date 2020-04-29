@@ -1,0 +1,36 @@
+{
+    "title": "Bangime and Friends",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "creators": [
+        {
+            "name": "Johann-Mattis List"
+        },
+        {
+            "name": "Abbie Hantgan"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Abbie Hantgan",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Abbie Hantgan",
+            "type": "DataCurator"
+        }
+    ],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        },
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Hantgan, Abbie and List, Johann-Mattis (2018): Bangime. Secret language, language isolate, or language island? Journal of Language Contact.</p>\n</blockquote>"
+}
