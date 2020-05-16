@@ -7,10 +7,10 @@
     ],
     "creators": [
         {
-            "name": "Johann-Mattis List"
+            "name": "Abbie Hantgan"
         },
         {
-            "name": "Abbie Hantgan"
+            "name": "Johann-Mattis List"
         }
     ],
     "contributors": [
@@ -24,6 +24,12 @@
         }
     ],
     "communities": [
+        {
+            "identifier": "lexibank"
+        },
+        {
+            "identifier": "lexibank"
+        },
         {
             "identifier": "lexibank"
         },

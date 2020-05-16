@@ -4,7 +4,7 @@ Cite the source dataset as
 
 > Hantgan, Abbie and List, Johann-Mattis (2018): Bangime. Secret language, language isolate, or language island? Journal of Language Contact.
 
-This dataset is licensed under a GPL license
+This dataset is licensed under a CCBY-NC license
 
 Available online at https://github.com/lingpy/language-island-paper
 
@@ -24,15 +24,16 @@ Available online at https://github.com/lingpy/language-island-paper
 - **Sources:** 7
 - **Synonymy:** 1.00
 - **Invalid lexemes:** 0
-- **Tokens:** 42,652
-- **Segments:** 76 (0 BIPA errors, 0 CTLS sound class errors, 75 CLTS modified)
-- **Inventory size (avg):** 43.86
+- **Tokens:** 29,149
+- **Segments:** 280 (0 BIPA errors, 0 CTLS sound class errors, 281 CLTS modified)
+- **Inventory size (avg):** 74.45
 
 # Contributors
 
 Name | GitHub user | Description | Role
---- | --- | ---
-Johann-Mattis List | @LinguList | maintainer | Author
+--- | --- | --- | ---
 Abbie Hantgan | @IndianaTones | maintainer | Author, DataCollector, DataCurator
+Johann-Mattis List | @LinguList | maintainer | Author
+
 
 

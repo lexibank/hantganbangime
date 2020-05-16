@@ -35,12 +35,11 @@ class Dataset(BaseDataset):
             lookup_factory='Name')
         for k in pb(wl, desc='wl-to-cldf', total=len(wl)):
             if wl[k, 'tokens']:
-                args.writer.add_form_with_segments(
+                args.writer.add_form(
                     Language_ID=wl[k, 'doculect'],
                     Parameter_ID=concept_lookup[wl[k, 'concept']],
                     Value=wl[k, 'ipa'].strip() or ''.join(wl[k, 'tokens']),
-                    Form=wl[k, 'ipa'].strip() or ''.join(wl[k, 'tokens']),
-                    Segments=wl[k, 'tokens'],
+                    Form=wl[k, 'ipa'].strip().replace(' ', '_') or ''.join(wl[k, 'tokens']),
                     Source=[source_lookup[wl[k, 'doculect']]],
                     Comment=wl[k, 'note']
                 )
