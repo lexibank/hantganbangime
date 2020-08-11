@@ -6,7 +6,7 @@ chardet==3.0.4
 -e git+https://github.com/cldf/cldfcatalog@f26c9ac38c1ab111a55682ae83f4ac1cb03333c3#egg=cldfcatalog
 -e git+https://github.com/LinguList/clldutils.git@a862d78e9145a931dec172708afd25ffd9920f7d#egg=clldutils
 colorlog==4.0.2
-datasette==0.35
+datasette==0.46
 decorator==4.4.1
 idna==2.8
 isodate==0.6.0
