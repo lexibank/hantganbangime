@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 import json
 
 
-with open("metadata.json") as fp:
+with open("metadata.json", encoding="utf-8") as fp:
     metadata = json.load(fp)
 
 
