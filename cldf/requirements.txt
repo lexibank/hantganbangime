@@ -11,7 +11,7 @@ decorator==4.4.1
 idna==2.8
 isodate==0.6.0
 jdcal==1.4.1
-Jinja2==2.10.3
+Jinja2==2.11.3
 -e git+https://github.com/lingpy/lingpy.git@4d42cda2ecd7b54abaf1a2d4aa517c54ff89b573#egg=lingpy
 Markdown==3.1.1
 MarkupSafe==1.1.1
