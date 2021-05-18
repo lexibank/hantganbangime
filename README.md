@@ -8,6 +8,9 @@ This dataset is licensed under a CCBY-NC license
 
 Available online at https://github.com/lingpy/language-island-paper
 
+
+Conceptlists in Concepticon:
+- [Hantgan-2018-302](https://concepticon.clld.org/contributions/Hantgan-2018-302)
 ## Statistics
 
 
