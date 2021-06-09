@@ -1,8 +1,14 @@
 # Bangime and Friends
 
-Cite the source dataset as
+## How to cite
 
-> Hantgan, Abbie and List, Johann-Mattis (2018): Bangime. Secret language, language isolate, or language island? Journal of Language Contact.
+If you use these data please cite
+- the original source
+  > Hantgan, Abbie and List, Johann-Mattis (2018): Bangime. Secret language, language isolate, or language island? Journal of Language Contact.
+- the derived dataset using the DOI of the [particular released version](../../releases/) you were using
+
+## Description
+
 
 This dataset is licensed under a CCBY-NC license
 
@@ -40,3 +46,10 @@ Johann-Mattis List | @LinguList | maintainer | Author
 
 
 
+
+
+## CLDF Datasets
+
+The following CLDF datasets are available in [cldf](cldf):
+
+- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)
