@@ -1,4 +1,4 @@
-# Bangime and Friends
+# CLDF dataset accompanying Hantgan and List's "Bangime and Friends" from 2018
 
 [![CLDF validation](https://github.com/lexibank/hantganbangime/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/hantganbangime/actions?query=workflow%3ACLDF-validation)
 

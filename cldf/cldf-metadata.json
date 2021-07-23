@@ -11,13 +11,13 @@
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "Bangime and Friends",
+    "dc:title": "CLDF dataset accompanying Hantgan and List's \"Bangime and Friends\" from 2018",
     "dcat:accessURL": "https://github.com/lexibank/hantganbangime",
     "prov:wasDerivedFrom": [
         {
             "rdf:about": "https://github.com/lexibank/hantganbangime",
             "rdf:type": "prov:Entity",
-            "dc:created": "08be5fc",
+            "dc:created": "682dfda",
             "dc:title": "Repository"
         },
         {
