@@ -1,5 +1,7 @@
 # Bangime and Friends
 
+[![CLDF validation](https://github.com/lexibank/hantganbangime/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/hantganbangime/actions?query=workflow%3ACLDF-validation)
+
 ## How to cite
 
 If you use these data please cite
@@ -10,7 +12,7 @@ If you use these data please cite
 ## Description
 
 
-This dataset is licensed under a CCBY-NC license
+This dataset is licensed under a CC-BY-4.0 license
 
 Available online at https://github.com/lingpy/language-island-paper
 
@@ -20,7 +22,7 @@ Conceptlists in Concepticon:
 ## Statistics
 
 
-[![Build Status](https://travis-ci.org/lexibank/hantganbangime.svg?branch=master)](https://travis-ci.org/lexibank/hantganbangime)
+[![CLDF validation](https://github.com/lexibank/hantganbangime/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/hantganbangime/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
