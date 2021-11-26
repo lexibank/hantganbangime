@@ -1,4 +1,4 @@
-ID,Phylum,Family,SubGroup,Name,Glottocode,Latitude,Longitude,Village,Source
+ID,Phylum,SubGroup,DialectGroup,Name,Glottocode,Latitude,Longitude,Village,Source
 1,,Bangime,Bangime,Bangime,bang1363,14.8,-3.76,Bounou,Hantgan2016
 2,Niger-Congo,Mande,Central_Mande,Bambara,bamb1269,14.53,-4.1,Sevare,Dumestre2011
 3,Niger-Congo,Dogon,Eastern_Dogon,Bankan_Tey,bank1259,15.07,-2.91,Oualo,Heath2015

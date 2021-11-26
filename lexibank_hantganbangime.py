@@ -12,6 +12,7 @@ class CustomLanguage(pylexibank.Language):
     Source = attr.ib(default=None)
     Family = attr.ib(default=None)
     SubGroup = attr.ib(default=None)
+    DialectGroup = attr.ib(default=None)
     Phylum = attr.ib(default=None)
 
 
