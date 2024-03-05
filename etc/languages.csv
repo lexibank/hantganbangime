@@ -16,7 +16,7 @@ ID,Phylum,SubGroup,DialectGroup,Name,Glottocode,Latitude,Longitude,Village,Sourc
 15,Niger-Congo,Dogon,Eastern_Dogon,Toro_Tegu,toro1253,15.01,-2.4,Nemguene,Heath2015
 16,Niger-Congo,Dogon,Eastern_Dogon,Yanda_Dom,yand1257,14.63,-3.15,Yanda,Heath2015
 17,Niger-Congo,Dogon,Eastern_Dogon,Yorno_So,yorn1234,14.56,-3.24,Yendouma,Heath2015
-18,Niger-Congo,Atlantic,Fula_Maasina,Fulfulde,maas1239,14.8,-3.84,Ouro-Ngeou,Osborn1993
+18,Niger-Congo,Atlantic-Congo,Fula_Maasina,Fulfulde,maas1239,14.8,-3.84,Ouro-Ngeou,Osborn1993
 19,Niger-Congo,Mande,Northwestern_Mande,Jenaama,jena1242,14.79,-3.78,Madougou,Heath2016jenaama
 20,Niger-Congo,Dogon,Western_Dogon,Penange,pena1270,14.39,-4.03,Pinia,Heath2015
 21,Nilo-Saharan,Songhay,Eastern_Songhay,Songhai_Kiini,koyr1240,15.21,-2.75,Kikara,Heath2005
