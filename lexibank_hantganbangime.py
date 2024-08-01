@@ -20,6 +20,7 @@ class Dataset(pylexibank.Dataset):
     dir = Path(__file__).parent
     id = "hantganbangime"
     language_class = CustomLanguage
+    writer_options = dict(keep_languages=False, keep_parameters=False)
 
     def cmd_makecldf(self, args):
         wl = lingpy.Wordlist(str(self.raw_dir / "D_subset-300-22.tsv"))
