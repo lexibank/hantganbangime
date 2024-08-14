@@ -29,8 +29,8 @@ Conceptlists in Concepticon:
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 22
-- **Concepts:** 300
+- **Varieties:** 22 (linked to 22 different Glottocodes)
+- **Concepts:** 300 (linked to 300 different Concepticon concept sets)
 - **Lexemes:** 6,181
 - **Sources:** 7
 - **Synonymy:** 1.00
@@ -44,7 +44,7 @@ Conceptlists in Concepticon:
 Name | GitHub user | Description | Role
 --- | --- | --- | ---
 Abbie Hantgan | @IndianaTones | maintainer | Author, DataCollector, DataCurator
-Johann-Mattis List | @LinguList | maintainer | Author
+Johann-Mattis List | @LinguList | maintainer | Author, Editor
 
 
 
